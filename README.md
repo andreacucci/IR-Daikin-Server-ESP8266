@@ -6,4 +6,4 @@ Simple http interface to control Daikin A/C units via IR using ESP8266.
  - IRremote ESP8266 Library (https://github.com/markszabo/IRremoteESP8266)
 
 # Suggested circuit
-https://github.com/markszabo/IRremoteESP8266/wiki#ir-sending
+![Suggested Circuit](/suggested_circuit.png?raw=true "Suggested Circuit")
